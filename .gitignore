@@ -1,0 +1,7 @@
+Circle/
+.ipynb_checkpoints/
+Line/
+__pycache__/
+Random/
+Snake/
+table_result.csv
